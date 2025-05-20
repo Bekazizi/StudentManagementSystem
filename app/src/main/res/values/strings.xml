@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StudentManagementSystem</string>
+    <string name="background_desc">Application background image</string>
+    <string name="header_image_desc">Application header image</string>
 </resources>
